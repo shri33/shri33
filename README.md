@@ -7,6 +7,7 @@
 - https://www.instagram.com/shrisrivastavadeveloper/
 - https://twitter.com/ShriSrivastava5
 - https://discord.com/channels/@me shri srivastava#7370
+- https://www.linkedin.com/in/shri-srivastava-ab04a5175/
 
 <!---
 shri33/shri33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
