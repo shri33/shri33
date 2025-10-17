@@ -1,25 +1,63 @@
-<!-- Professional GitHub Profile README for Shri Srivastava -->
+<!-- Shri Srivastava | GitHub Profile README -->
+<h1 align="center">👋 Hello, I’m Shri Srivastava (@shri33)</h1>
+<h3 align="center">🚀 Front-End Developer | 💻 Full Stack Developer (in progress) | 🛡️ Cyber Security Enthusiast</h3>
 
-<h1 align="center">👋 Hi, I'm Shri Srivastava</h1>
-<h3 align="center">🚀 Front-End Developer | 💻 Full Stack Learner | 🛡️ Cyber Security Enthusiast</h3>
+---
+
+### 🏠 Home
+
+Welcome to my GitHub profile!  
+I'm **Shri Srivastava**, a passionate developer who loves building user-focused, secure, and scalable web applications.  
+Currently, I’m mastering **Full Stack Development (MERN)** while exploring the world of **Cyber Security**.
+
+---
+
+### 📚 Resources
+- 🌱 **Currently Learning:** Full Stack Development (React, Next.js, Node.js, MongoDB)
+- 💻 **Skills:** JavaScript, React.js, Next.js, Redux, HTML5, CSS3, SASS, BEM, Figma, Bash, Atom
+- 🧠 **Interests:** Cyber Security, Ethical Hacking, AI-driven Web Apps, Blockchain
+- 💞️ **Collaboration:** Open to projects via [Huntr.dev](https://huntr.dev/)
 
 ---
 
 ### 💫 About Me
-I'm a passionate developer from **India 🇮🇳**, exploring the intersection of **web development** and **cyber security**.  
-Currently focusing on **React.js**, **Next.js**, and **MERN stack** projects while learning **ethical hacking and secure web development**.
+- 👀 I’m interested in **Full Stack Development** & **Cyber Security**
+- 🌱 I’m currently learning **Full Stack Development**
+- 💞️ I’m looking to collaborate on **[https://huntr.dev/](https://huntr.dev/)**
+- 📫 **How to reach me:**
+  - [Facebook](https://www.facebook.com/profile.php?id=100076965666996)
+  - [Instagram](https://www.instagram.com/shrisrivastavadeveloper/)
+  - [Twitter](https://twitter.com/ShriSrivastava5)
+  - [Discord](https://discord.com/channels/@me) → `shri srivastava#7370`
+  - [LinkedIn](https://www.linkedin.com/in/shri-srivastava-ab04a5175/)
+  - [Blog](https://latestnewsknowledge.blogspot.com/)
 
 ---
 
-### 🧠 What I’m Currently Doing
-- 🌱 Learning **Full Stack Development** (MERN)
-- 💻 Enhancing my knowledge in **Cyber Security**
-- 💬 Open for collaborations on **[Huntr.dev](https://huntr.dev/)**
-- 🎯 Participating in **Hacktoberfest** & contributing to open-source projects
+### 🧩 Badges, Boards & Achievements
+
+#### 🏅 **Holopin Badges**
+🎖️ All my verified Holopin badges can be viewed here:  
+🔗 [https://www.holopin.io/@shri33#badges](https://www.holopin.io/@shri33#badges)
+
+[![An image of @shri33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shri33)](https://www.holopin.io/@shri33#badges)
+
+#### 🎉 **Hacktoberfest Achievements (2023–2025)**  
+I actively contribute to open-source projects through **Hacktoberfest** every year.  
+Here’s my progress and rewards:
+
+- 🧱 **Hacktoberfest 2023** — Completed with ILLA, Appwrite & DigitalOcean badges  
+- 🌳 **Hacktoberfest 2024** — Contributed multiple PRs to open-source tools  
+- 🌎 **Hacktoberfest 2025** — Reached **Level 2** (6+ Accepted PRs)  
+- 🎽 **Rewards:** T-shirt, Holopin customizable badges, and TreeNation contribution 🌱
+
+[![Hacktoberfest Profile](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/profile/)
+[![Hacktoberfest 2024 Badge](https://img.shields.io/badge/Hacktoberfest-2024-teal?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/profile/)
+[![Hacktoberfest 2023 Badge](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/profile/)
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,nextjs,redux,nodejs,express,mongodb,figma,vscode,bash,git,github" />
@@ -27,59 +65,56 @@ Currently focusing on **React.js**, **Next.js**, and **MERN stack** projects whi
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shri-srivastava-ab04a5175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ShriSrivastava5"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shrisrivastavadeveloper/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100076965666996"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="https://latestnewsknowledge.blogspot.com/"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-</p>
-
----
-
-### 🏅 My Achievements & Badges
-
-#### 🧩 Holopin Badges
-[![An image of @shri33's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shri33)](https://www.holopin.io/@shri33#badges)
-
-#### 🎉 Hacktoberfest Badges
-[![Hacktoberfest Profile](https://img.shields.io/badge/Hacktoberfest-2025-orange?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/profile/)
-[![Hacktoberfest 2023 Badge](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/profile/)
-[![Hacktoberfest 2024 Badge](https://img.shields.io/badge/Hacktoberfest-2024-teal?style=for-the-badge&logo=digitalocean&logoColor=white)](https://hacktoberfest.com/profile/)
+### 🏗️ Project Contributions
+Some of my accepted **Hacktoberfest PRs**:
+- 🧩 [Fix: Change Kubernetes event action from 'registering' to 'register'](https://github.com/meshery/meshery/pull/16190)
+- 🧩 [Feature: Add Kyverno Helm chart design for Meshery catalog](https://github.com/meshery/meshery/pull/16126)
+- 🧩 [Feature: Add 17 project ideas across all categories](https://github.com/pollinations/pollinations/pull/4408)
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shri33&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri33&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shri33&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shri33&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-### ⚡ Fun Facts
-- 🧩 I’ve been an **active open-source contributor** since 2023  
-- 🎯 Always improving my **JavaScript, React, and UI/UX** design skills  
-- ☕ I love coffee, debugging, and late-night coding sessions  
+### 📫 Contact Information
+
+| Platform | Link |
+|-----------|------|
+| 💼 LinkedIn | [linkedin.com/in/shri-srivastava-ab04a5175](https://www.linkedin.com/in/shri-srivastava-ab04a5175/) |
+| 🐦 Twitter | [@ShriSrivastava5](https://twitter.com/ShriSrivastava5) |
+| 📸 Instagram | [@shrisrivastavadeveloper](https://www.instagram.com/shrisrivastavadeveloper/) |
+| 📘 Facebook | [Shri Srivastava](https://www.facebook.com/profile.php?id=100076965666996) |
+| 💬 Discord | `shri srivastava#7370` |
+| 🌐 Blog | [latestnewsknowledge.blogspot.com](https://latestnewsknowledge.blogspot.com/) |
 
 ---
 
-### ✨ Quote That Drives Me
-> _“Keep learning, keep building, and keep securing the web.”_ — **Shri Srivastava**
+### 🧾 Profile Summary
+
+**Name:** Shri Srivastava  
+**Username:** [@shri33](https://github.com/shri33)  
+**Focus Areas:** Front-End Development, Full Stack Learning, Cyber Security  
+**GitHub Linked:** Yes ✅  
+**Hacktoberfest Level:** 2 (2025)  
+**Rewards:** T-shirt, TreeNation Contribution, Holopin Badge Set  
+**Community Involvement:** ILLA Cloud, Appwrite, DigitalOcean, Holopin  
 
 ---
 
-### 📫 Reach Me
-📍 Location: Patna, India  
-📧 Email: *Available on request*  
-🌐 Portfolio: *Coming Soon*
+### 💬 Quote
+> _"Keep learning, keep building, and keep securing the web."_ — **Shri Srivastava**
 
 ---
 
-<p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repositories!</b>
-</p>
+### 🧭 Footer
+
+**© 2025 Holopin, DigitalOcean & Hacktoberfest Partners**  
+_All trademarks, logos, and badges belong to their respective organizations._  
+🪪 *Profile maintained by Shri Srivastava | Patna, India*  
+⭐ **If you like my work, consider giving a star to my repositories!**
