@@ -4,6 +4,9 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&multiline=true&width=940&height=100&lines=Back-End+Engineer+%7C+Full-Stack+Developer;AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast;Open+Source+Contributor+%7C+Cybersecurity;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
 
+<br>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shri-srivastava-ab04a5175/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/shri33)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/ShriSrivastava5)
