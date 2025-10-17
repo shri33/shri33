@@ -2,9 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Shri%20Srivastava&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&multiline=true&width=940&height=100&lines=Back-End+Engineer+%7C+Full-Stack+Developer;AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast;Open+Source+Contributor+%7C+Cybersecurity;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&multiline=true&width=940&height=100&lines=Back-End+Engineer+%7C+Full-Stack+Developer;AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast;<br> Open+Source+Contributor+%7C+Cybersecurity;Building+Scalable+%26+Intelligent+Systems" alt="Typing SVG" />
 
-<br>
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/shri-srivastava-ab04a5175/)
