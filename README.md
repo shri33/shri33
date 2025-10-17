@@ -4,10 +4,11 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Back-End+Engineer+%7C+Full-Stack+Developer;AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast;Open+Source+Contributor+%7C+Cybersecurity;Building+Scalable+%26+Intelligent+Systems" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&multiline=true&width=1100&height=160&lines=Back-End+Engineer+%7C+Full-Stack+Developer;AI%2FML+Engineer+%7C+Deep+Learning+Enthusiast;Open+Source+Contributor+%7C+Cybersecurity;Building+Scalable+%26+Intelligent+Systems" 
     alt="Typing SVG" 
   />
 </p>
+
 
 
 
