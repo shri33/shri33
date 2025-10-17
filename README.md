@@ -20,42 +20,50 @@
 
 ## 🚀 About Me
 
-```typescript
-const shri = {
-    role: "Back-End Engineer @ Turpin",
-    location: "Patna, Bihar, India 🇮🇳",
-    education: "B.Sc. (Hons) Computer Science - BITS Pilani (2026)",
-    experience: "3+ years in Full-Stack Development",
-    rating: "⭐ 5.0/5.0 on Freelance Projects",
-    
-    expertise: {
-        backend: ["TypeScript", "Node.js", "Supabase", "MongoDB", "PostgreSQL"],
-        frontend: ["React", "Next.js", "Vue.js", "TypeScript", "Redux"],
-        aiML: ["TensorFlow", "PyTorch", "Scikit-learn", "Deep Learning", "LLMs"],
-        devOps: ["Docker", "Git", "CI/CD", "Railway", "Vercel"]
-    },
-    
-    currentlyLearning: [
-        "🤖 Machine Learning & Deep Learning",
-        "🧠 Generative AI & Large Language Models",
-        "🔐 Advanced Cybersecurity",
-        "☁️ Cloud Architecture & Microservices"
-    ],
-    
-    achievements: {
-        projects: "10+ Client Projects with 5.0/5.0 Rating",
-        transactions: "10K+ Monthly Transactions Handled",
-        uptime: "0% Downtime in Production",
-        openSource: "Active Hacktoberfest Contributor"
-    },
-    
-    lookingToCollaborate: "Open Source Projects & AI/ML Applications",
-    
-    funFact: "I turn coffee ☕ into code and bugs into features! 🐛✨"
-};
-```
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 Professional Profile
+
+- 🎯 **Role:** Back-End Engineer @ Turpin
+- 📍 **Location:** Patna, Bihar, India 🇮🇳
+- 🎓 **Education:** B.Sc. (Hons) CS - BITS Pilani (2026)
+- 💼 **Experience:** 3+ years in Full-Stack Development
+- ⭐ **Rating:** 5.0/5.0 on Freelance Projects
+
+### 🌱 Currently Learning
+
+- 🤖 Machine Learning & Deep Learning
+- 🧠 Generative AI & Large Language Models
+- 🔐 Advanced Cybersecurity
+- ☁️ Cloud Architecture & Microservices
+
+</td>
+<td width="50%">
+
+### 🏆 Key Achievements
+
+- ✅ **10+ Client Projects** with perfect ratings
+- 💰 **10K+ Monthly Transactions** handled
+- 🚀 **0% Downtime** in production systems
+- 🌟 **Active Hacktoberfest** Contributor
+- 📊 **50+ ML Model** evaluations completed
+
+### 💞️ Open For Collaboration
+
+- Open Source Projects
+- AI/ML Applications
+- Full-Stack Development
+- Cybersecurity Tools
+
+</td>
+</tr>
+</table>
 
 <div align="center">
+
+**💡 Fun Fact:** *I turn coffee ☕ into code and bugs into features!* 🐛✨
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
